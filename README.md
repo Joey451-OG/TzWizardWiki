@@ -49,4 +49,4 @@ Please note that the script is only able to convert times for the mods that are 
 In summary, this script provides a command-line interface for converting time zones and displaying mod time zones, and also includes functions for converting AM/PM time to 24-hour format, clearing the terminal screen, and displaying a list of commands.
 
 
-This README.md file was writen my ChatGPT 3 and formated by It'sJoeyG
+This README.md file was writen by ChatGPT 3 and formated by It'sJoeyG
