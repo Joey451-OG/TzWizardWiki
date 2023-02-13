@@ -6,7 +6,7 @@ A tool for converting time zones and displaying mod time zones.
  
 2. Navigate to the directory where the TzWizard script is stored using the `cd` command. For example, if the script is stored in your "Documents" folder, you        would enter `cd Documents` in the terminal.
 
-3. Once you are in the correct directory, enter `python TzWizard.py` to run the script.
+3. Once you are in the correct directory, enter `python TzWizard.py` to run the script. (NOTE: If you do not have python installed, you will need to install it from      https://python.org. Download the install tool for your OS and follow the instructions. Once you're done, you can continue with this documentation)
    You will be greeted with the message `Welcome to TzWizard! What would you like to do? (Type "help" for a list of commands)`
 
 4. To display a list of commands and their explanations, type `help` and press enter.
